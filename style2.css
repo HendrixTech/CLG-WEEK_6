@@ -1,12 +1,6 @@
 *{
     background-color: rgb(227, 154, 86);
 }
-/* .tutorial{
-    position: absolute;
-    top: 8px;
-    left: 16px;
-    font-size: 18px;
-} */
 
 a{
     text-decoration: none;
@@ -16,7 +10,6 @@ a{
 h1{
     color: #173667;
     text-align: center;
-    /* margin: 65px; */
     font-size: 100px;
     font-weight: bold;
 }
